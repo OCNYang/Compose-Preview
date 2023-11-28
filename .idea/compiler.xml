@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Compose-Preview.compose-preview-annotation" target="17" />
+      <module name="Compose-Preview.compose-preview-annotation.main" target="17" />
+      <module name="Compose-Preview.compose-preview-annotation.test" target="17" />
+      <module name="Compose-Preview.compose-preview-processor" target="17" />
+      <module name="Compose-Preview.compose-preview-processor.main" target="17" />
+      <module name="Compose-Preview.compose-preview-processor.test" target="17" />
+      <module name="Compose-Preview.main" target="17" />
+      <module name="Compose-Preview.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
